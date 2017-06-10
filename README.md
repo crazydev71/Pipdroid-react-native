@@ -70,8 +70,7 @@ $ react-native run-android
 *	[NativeBase on Twitter](https://twitter.com/NativeBaseIO)
 *	[NativeBase Blog](https://medium.com/nativebase-io-blog)
 
-#### Important: react-native link issue:
-*	CodePush module overriding issue is due to 'react-native link'. Please refer [here](https://github.com/shoutem/ui/issues/122)
+## Important: react-native link issue:
+*	CodePush module overriding issue seems caused by 'react-native link'. Please refer [here](https://github.com/shoutem/ui/issues/122)
 
 For apps with more advanced designs using NativeBase, please visit **[StrapMobile](https://strapmobile.com/)**.
-
